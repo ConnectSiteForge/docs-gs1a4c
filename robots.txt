@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ConnectSiteForge.github.io/docs-gs1a4c/sitemap.xml
